@@ -1,2 +1,6 @@
-# AmigoSecreto
-Esta es una aplicación que le permite a los usuarios ingresar una lista de nombres y sortear los nombres aleatoriamente para mostrar al "Amigo Secreto" en la pantalla.
+# Challenge de Amigo Secreto
+Esta aplicación en HTML, CSS y JavaScript permite:
+-Agregar nombres a una lista
+-Mostrar la lista con los nombres
+-Sortear los nombres aleatoriamente
+-Mostrar el resultado en la pantalla
